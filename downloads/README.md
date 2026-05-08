@@ -2,6 +2,7 @@
 
 - [100MB](./100MB)
 - [mhrv-rs-android-arm64-v8a-v1.9.14](./mhrv-rs-android-arm64-v8a-v1.9.14)
+- [mhrv-rs-android-arm64-v8a-v1.9.18](./mhrv-rs-android-arm64-v8a-v1.9.18)
 
 ---
 
