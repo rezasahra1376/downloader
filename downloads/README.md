@@ -7,6 +7,7 @@
 - [mhrv-rs-android-arm64-v8a-v1.9.21](./mhrv-rs-android-arm64-v8a-v1.9.21)
 - [v2rayNG_2.1.6-fdroid_arm64-v8a](./v2rayNG_2.1.6-fdroid_arm64-v8a)
 - [v2rayNG_2.1.6_arm64-v8a](./v2rayNG_2.1.6_arm64-v8a)
+- [watch](./watch)
 
 ---
 
